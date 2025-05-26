@@ -68,13 +68,13 @@
 <section id="planilha">
   <h2>Planilha de Gestão</h2>
   <p>Acesse nossa planilha oficial de organização da Aliança:</p>
-  <a class="btn" href="https://docs.google.com/spreadsheets/" target="_blank">Abrir Planilha</a>
+  <a class="btn" href="https://docs.google.com/spreadsheets/d/1_4typYQUWnpwSbFlFTVHSEil8JFFD8S2/edit?usp=drivesdk&ouid=115934938528591538356&rtpof=true&sd=true" target="_blank">Abrir Planilha</a>
 </section>
 
 <section id="feedback">
   <h2>Caixa de Feedback</h2>
   <p>Envie sugestões ou críticas de forma anônima ou identificada:</p>
-  <a class="btn" href="https://forms.gle/" target="_blank">Enviar Feedback</a>
+  <a class="btn" href="https://docs.google.com/spreadsheets/d/1_4typYQUWnpwSbFlFTVHSEil8JFFD8S2/edit?usp=drivesdk&ouid=115934938528591538356&rtpof=true&sd=true" target="_blank">Enviar Feedback</a>
 </section>
 
 <section id="regras">
@@ -86,7 +86,7 @@
     <li>Cumprir as orientações da direção e dos conselheiros.</li>
   </ul>
   <p>Veja também nossa galeria de imagens com as regras:</p>
-  <a class="btn" href="https://photos.google.com/" target="_blank">Ver Galeria de Regras</a>
+  <a class="btn" href="https://photos.app.goo.gl/Su1grV7DgCSWEJHi9" target="_blank">Ver Galeria de Regras</a>
 </section>
 
 <footer>
